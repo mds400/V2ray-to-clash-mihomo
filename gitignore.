@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.so
+*.yaml
+*.yml
+test_*.py
+build_*/
+obfuscated_*/
+.env
+*.key
+*.pem
