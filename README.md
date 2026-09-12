@@ -1,13 +1,26 @@
 # V2RAY TO CLASH V3.0
 
-محوّل تكوينات **VLESS وVMess وTrojan وWireGuard** إلى ملفات YAML متوافقة مع Mihomo / Clash Meta وBox4Magisk
-https://github.com/boxproxy
+<p align="center">
+  <img src="./pq.jpg" alt="V2RAY TO CLASH" width="600">
+</p>
+
+<p align="center">
+  محوّل تكوينات <strong>VLESS وVMess وTrojan وWireGuard</strong><br>
+  إلى ملفات YAML متوافقة مع Mihomo وClash Meta وBox4Magisk
+</p>
+
+<p align="center">
+  <a href="https://github.com/boxproxy">BoxProxy</a> ·
+  <a href="https://t.me/freevpsiraq">قناة التلكرام</a>
+</p>
 
 ## الحقوق
 
-محمد 🇮🇶 سلوم — [@SELOOM1](https://t.me/SELOOM1)
+**محمد 🇮🇶 سلوم — [@SELOOM1](https://t.me/SELOOM1)**
 
-للانضمام إلى قناة التلكرام: [https://t.me/freevpsiraq](https://t.me/freevpsiraq)
+للانضمام إلى قناة التلكرام:
+
+**[https://t.me/freevpsiraq](https://t.me/freevpsiraq)**
 
 ## المزايا
 
@@ -15,16 +28,17 @@ https://github.com/boxproxy
 - تحويل روابط `wireguard://` إلى قالب Mihomo WireGuard.
 - إنشاء ملف YAML ونقله تلقائيًا إلى مجلد Mihomo عند توفر صلاحيات الروت.
 - دعم العربية والأسماء المزخرفة والأعلام.
+- متوافق مع Mihomo وClash Meta وBox4Magisk.
 
 ## التشغيل على Linux أو Termux
 
-تأكد من وجود Python 3 ثم شغّل:
+تأكد من وجود Python 3، ثم شغّل:
 
 ```bash
 python3 V2RAY_TO_CLASH_V3.0.py
 ```
 
-ألصق رابط التكوين عند ظهور الطلب. الصيغ المدعومة هي:
+ألصق رابط التكوين عند ظهور الطلب. الصيغ المدعومة:
 
 ```text
 vless://...
@@ -41,12 +55,14 @@ wireguard://...
 
 ## تنبيه أمني
 
-لا تنشر روابط VPN أو مفاتيح WireGuard الخاصة داخل GitHub. رابط WireGuard قد يحتوي على `privatekey`، لذلك استخدم روابط تجريبية منزوعة المفاتيح عند كتابة الأمثلة، وغيّر المفتاح إذا تم نشره بالخطأ.
+لا تنشر روابط VPN أو مفاتيح WireGuard الخاصة داخل GitHub. رابط WireGuard قد يحتوي على `privatekey`، لذلك استخدم روابط تجريبية منزوعة المفاتيح عند كتابة الأمثلة. إذا تم نشر مفتاح خاص بالخطأ، قم بتغييره فورًا.
 
-## المساعدون
-https://github.com/boxproxy
+## المساعدون والمشاريع المرتبطة
 
-## الترخيص
+- [BoxProxy](https://github.com/boxproxy)
 
-. حقوق السكربت محفوظة لمحمد 🇮🇶 سلوم — @SELOOM1
-TELEGRAM https://t.me/freevpsiraq
+## الترخيص والحقوق
+
+حقوق السكربت محفوظة لـ **محمد 🇮🇶 سلوم — @SELOOM1**.
+
+**TELEGRAM:** [https://t.me/freevpsiraq](https://t.me/freevpsiraq)
