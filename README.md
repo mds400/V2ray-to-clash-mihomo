@@ -23,22 +23,6 @@
 - دعم العربية والأسماء المزخرفة والأعلام.
 - متوافق مع Mihomo وClash Meta وBox4Magisk.
 
-## التشغيل على Linux أو Termux
-
-تأكد من وجود Python 3، ثم شغّل:
-
-```bash
-python3 V2RAY_TO_CLASH_V3.0.py
-```
-
-ألصق رابط التكوين عند ظهور الطلب. الصيغ المدعومة:
-
-```text
-vless://...
-vmess://...
-trojan://...
-wireguard://...
-```
 
 ## التشغيل على Android
 
