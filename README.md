@@ -1,6 +1,7 @@
 # V2RAY TO CLASH V3.0
 
-محوّل تكوينات **VLESS وVMess وTrojan وWireGuard** إلى ملفات YAML متوافقة مع Mihomo / Clash Meta وBox4Magisk.
+محوّل تكوينات **VLESS وVMess وTrojan وWireGuard** إلى ملفات YAML متوافقة مع Mihomo / Clash Meta وBox4Magisk
+https://github.com/boxproxy
 
 ## الحقوق
 
