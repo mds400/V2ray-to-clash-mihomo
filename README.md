@@ -14,13 +14,6 @@
   <a href="https://t.me/freevpsiraq">قناة التلكرام</a>
 </p>
 
-## الحقوق
-
-**محمد 🇮🇶 سلوم — [@SELOOM1](https://t.me/SELOOM1)**
-
-للانضمام إلى قناة التلكرام:
-
-**[https://t.me/freevpsiraq](https://t.me/freevpsiraq)**
 
 ## المزايا
 
